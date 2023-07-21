@@ -109,16 +109,6 @@
       ],
       "status": "Solicitado",
       "id": 5
-    },
-    {
-      "nome": "maria",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 6
     }
   ]
 }
