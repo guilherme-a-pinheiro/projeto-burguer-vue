@@ -109,6 +109,16 @@
       ],
       "status": "Solicitado",
       "id": 5
+    },
+    {
+      "nome": "Guilherme",
+      "carne": "Picanha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 6
     }
   ]
 }
