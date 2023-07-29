@@ -79,16 +79,6 @@
   ],
   "burgers": [
     {
-      "nome": "gui",
-      "carne": "Picanha",
-      "pao": "Integral",
-      "opcionais": [
-        "Cheddar"
-      ],
-      "status": "Finalizado",
-      "id": 3
-    },
-    {
       "nome": "Zeca",
       "carne": "Alcatra",
       "pao": "Parmesão e Orégano",
@@ -96,7 +86,7 @@
         "Tomate",
         "Salame"
       ],
-      "status": "Em produção",
+      "status": "Finalizado",
       "id": 4
     },
     {
