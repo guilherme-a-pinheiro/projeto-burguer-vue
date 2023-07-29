@@ -1,6 +1,5 @@
 <template>
-    <h1>Área de contato</h1>
-    <h2>Entre em contato conosco para sugestões ou críticas</h2>
+    <h1>Área para contato</h1>
     <ContatoForm />
 </template>
 

@@ -85,7 +85,7 @@
       "opcionais": [
         "Cheddar"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 3
     },
     {
@@ -96,7 +96,7 @@
         "Tomate",
         "Salame"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 4
     },
     {
@@ -107,7 +107,7 @@
         "Cheddar",
         "Salame"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 5
     },
     {
