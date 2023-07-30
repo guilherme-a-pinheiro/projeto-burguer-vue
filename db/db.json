@@ -90,25 +90,26 @@
       "id": 4
     },
     {
-      "nome": "maria",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Cheddar",
-        "Salame"
-      ],
-      "status": "Em produção",
-      "id": 5
-    },
-    {
       "nome": "Guilherme",
       "carne": "Picanha",
       "pao": "Italiano Branco",
       "opcionais": [
         "Bacon"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 6
+    },
+    {
+      "nome": "Carolina",
+      "carne": "Picanha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Cheddar",
+        "Cebola roxa"
+      ],
+      "status": "Finalizado",
+      "id": 7
     }
   ]
 }
